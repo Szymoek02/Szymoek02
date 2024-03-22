@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,py,cassandra,mysql,mongodb,html,css,tailwind,js,ts,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,py,cassandra,mysql,mongodb,html,css,tailwind,js,ts,react)](https://skillicons.dev)
 <!--
 **Szymoek02/Szymoek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
