@@ -1,5 +1,16 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,c,cpp,py,cassandra,mysql,mongodb,html,css,tailwind,js,ts,react)](https://skillicons.dev)
+Software development:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
+Mobile applications:
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://skillicons.dev)
+Databases:
+[![My Skills](https://skillicons.dev/icons?i=cassandra,mysql,mongodb)](https://skillicons.dev)
+Web Development:
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev)
+Others:
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,git,nginx)](https://skillicons.dev)
+
+
 <!--
 **Szymoek02/Szymoek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
