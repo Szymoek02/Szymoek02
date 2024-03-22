@@ -1,4 +1,4 @@
-### Hi there 👋\
+### Hi there 👋
 Software development:\
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)\
 Mobile applications:\
@@ -8,7 +8,7 @@ Databases:\
 Web Development:\
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev)\
 Others:\
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,git,nginx)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,git,nginx)](https://skillicons.dev)
 
 
 <!--
