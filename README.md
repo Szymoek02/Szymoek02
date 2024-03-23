@@ -1,8 +1,8 @@
 ### Hi there 👋
 Software development:\
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)\
-Mobile applications:\
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://skillicons.dev)\
+<!--Mobile applications:\
+[![My Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://skillicons.dev)\-->
 Databases:\
 [![My Skills](https://skillicons.dev/icons?i=cassandra,mysql,mongodb)](https://skillicons.dev)\
 Web Development:\
