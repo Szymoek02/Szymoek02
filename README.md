@@ -2,11 +2,11 @@
 Software development:\
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)\
 Databases:\
-[![My Skills](https://skillicons.dev/icons?i=cassandra,mysql,mongodb)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)\
 Web Development:\
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev)\
 Others:\
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,git,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,git)](https://skillicons.dev)
 <!--Mobile applications:\
 [![My Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://skillicons.dev)\-->
 
